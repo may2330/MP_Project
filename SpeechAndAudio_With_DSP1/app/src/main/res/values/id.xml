@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tvId"/>
+    <item type="id" name="tvMusic"/>
+    <item type="id" name="tvMan"/>
+    <item type="id" name="tvGe"/>
+    <item type="id" name="tvMin"/>
+    <item type="id" name="tvMax"/>
+    <item type="id" name="tvImage"/>
+</resources>
